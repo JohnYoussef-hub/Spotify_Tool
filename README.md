@@ -1,6 +1,8 @@
 # Spotify Tool
 
-This tool is designed to enhance your Spotify experience by simplifying the installation of Spicetify and its Marketplace. Please note that this tool does not provide a premium Spotify account; it only adds extensions and customizations to your existing Spotify installation.
+This tool is designed to enhance your Spotify experience by simplifying the installation of Spicetify and its Marketplace. Among the available extensions in the Marketplace, you can find tools to **remove ads**, **change themes**, and many other customizations to enhance your Spotify experience.
+
+Please note that this tool does not provide a premium Spotify account; it only adds extensions and customizations to your existing Spotify installation.
 
 ## Important Information
 
