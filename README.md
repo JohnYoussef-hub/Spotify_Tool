@@ -28,6 +28,9 @@ After installation, you can access the Spicetify Marketplace through your modifi
 There are a lot of extensions, but to remove ads you should install this extension:  
    ![Remove ads extension](https://i.imgur.com/ko6SJkH.png)
 
+**Important:**  
+If you open Spotify and the Spicetify Marketplace is not visible, please click the "Use Spotify Tool" button again to reapply the modifications. This will ensure that the Marketplace is added properly.
+
 ## Disclaimer
 
 This tool is for educational and customization purposes only. It does not provide any premium features of Spotify. Please respect Spotify's terms of service when using this tool.
