@@ -18,7 +18,7 @@ This tool is designed to enhance your Spotify experience by simplifying the inst
 2. Click on the "Add Spotify Path" button in the application.
 3. Add the correct path to your Spotify installation.  
    ![Add Spotify Path](https://i.imgur.com/IlU6iDF.png)
-4. After adding the correct path, click on the "Use Spotify Tool" button to start the process.
+4. After adding the correct path, click on the "Activate Spotify Tool" button to start the process.
 
 ## Usage
 
