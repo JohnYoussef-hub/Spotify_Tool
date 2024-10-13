@@ -16,6 +16,8 @@ Please note that this tool does not provide a premium Spotify account; it only a
 
 ## Installation Steps
 
+**You will find the tool (Spotify Tool.exe) in **Release** folder**
+
 1. Ensure you have the correct version of Spotify installed (not from Microsoft Store).
 2. Click on the "Add Spotify Path" button in the application.
 3. Add the correct path to your Spotify installation.  
