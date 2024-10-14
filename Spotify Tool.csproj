@@ -134,6 +134,8 @@
     <None Include="Resources\spotify.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\github %281%29.png" />
+    <None Include="Resources\linkedin %281%29.png" />
     <Content Include="spotifyy.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -63,6 +63,26 @@ namespace Spotify_Tool.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap github__1_ {
+            get {
+                object obj = ResourceManager.GetObject("github (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap linkedin__1_ {
+            get {
+                object obj = ResourceManager.GetObject("linkedin (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap spotify {
             get {
                 object obj = ResourceManager.GetObject("spotify", resourceCulture);

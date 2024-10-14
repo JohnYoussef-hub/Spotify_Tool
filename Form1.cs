@@ -108,5 +108,15 @@ namespace TerminalCommandApp
         {
             Process.Start("https://github.com/JohnYoussef-hub/Spotify_Tool/blob/main/README.md");
         }
+
+        private void bunifuPictureBox1_Click(object sender, EventArgs e)
+        {
+            Process.Start("https://github.com/JohnYoussef-hub");
+        }
+
+        private void bunifuPictureBox2_Click(object sender, EventArgs e)
+        {
+            Process.Start("https://www.linkedin.com/in/johnyoussef-in/");
+        }
     }
 }
